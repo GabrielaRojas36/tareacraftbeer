@@ -1,0 +1,49 @@
+body {
+  color: rgb(71, 38, 28); 
+  background-color: rgb(255, 245, 227);
+ 
+}
+
+
+header {
+  background-image: url(http://illustrationfriday.com/wp-content/uploads/2014/08/CraftBeer-Bett-Norris1.jpg);
+  background-position:center;
+  background-size: cover;
+  height:400px;
+}
+
+
+
+
+h1 {
+  color: rgb(71, 38, 28);
+  background-color: rgb(255, 245, 227);
+  font-family: 'Quicksand', sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  margin: 90;
+}
+
+h2, h3, h4 {
+  color: rgb(71, 38, 28);
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  font-size: 30px;
+  font-weight: 100;
+  margin: 90;
+}
+
+
+
+p, ul {
+  color: rgb(71, 38, 28);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  margin: 90;
+  text-align: left;
+  
+}
+
+
+
